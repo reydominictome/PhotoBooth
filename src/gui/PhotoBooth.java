@@ -28,7 +28,6 @@ import java.io.*;
  */
 public class PhotoBooth extends javax.swing.JFrame {
     private final String EVENT_NAME = "Robotics_Cup_";
-    //private final String FILE_PATH = "C://Users//Rey//Documents//PhotoBooth/";
     private final String SUFFIX = ".jpg";
     private int imageNo = 1;
     private DaemonThread myThread = null;
